@@ -1,2 +1,2 @@
 # My-Cheat-Sheets
-I am sharing my notes from different courses.
+I am sharing my notes about different coding languages.
