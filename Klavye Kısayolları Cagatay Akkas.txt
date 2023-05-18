@@ -1,5 +1,5 @@
-Author: Çağatay Akkaş
-Date : 17.05.2023
+Yazar: Çağatay Akkaş
+Tarih : 17.05.2023
 
   Yazı
 +)ctrl + a -> bulunan alanın tamamını tarar
